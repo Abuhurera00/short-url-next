@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
 
-// models and controllers
+// models and controllers here
 import dbConnect from '../../lib/mongoose/dbConnect';
 import URL from '../../lib/models/url.model';
 
